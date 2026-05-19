@@ -1,0 +1,4592 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "tsconfig.app.json",
+      "file_type": "code",
+      "source_file": "tsconfig.app.json",
+      "source_location": "L1",
+      "id": "tsconfig_app_json",
+      "community": 12,
+      "norm_label": "tsconfig.app.json"
+    },
+    {
+      "label": "extends",
+      "file_type": "code",
+      "source_file": "tsconfig.app.json",
+      "source_location": "L2",
+      "id": "places_tsconfig_app_extends",
+      "community": 12,
+      "norm_label": "extends"
+    },
+    {
+      "label": "compilerOptions",
+      "file_type": "code",
+      "source_file": "tsconfig.app.json",
+      "source_location": "L3",
+      "id": "places_tsconfig_app_compileroptions",
+      "community": 12,
+      "norm_label": "compileroptions"
+    },
+    {
+      "label": "outDir",
+      "file_type": "code",
+      "source_file": "tsconfig.app.json",
+      "source_location": "L4",
+      "id": "places_tsconfig_app_compileroptions_outdir",
+      "community": 12,
+      "norm_label": "outdir"
+    },
+    {
+      "label": "types",
+      "file_type": "code",
+      "source_file": "tsconfig.app.json",
+      "source_location": "L5",
+      "id": "places_tsconfig_app_compileroptions_types",
+      "community": 12,
+      "norm_label": "types"
+    },
+    {
+      "label": "files",
+      "file_type": "code",
+      "source_file": "tsconfig.app.json",
+      "source_location": "L7",
+      "id": "places_tsconfig_app_files",
+      "community": 12,
+      "norm_label": "files"
+    },
+    {
+      "label": "include",
+      "file_type": "code",
+      "source_file": "tsconfig.app.json",
+      "source_location": "L11",
+      "id": "places_tsconfig_app_include",
+      "community": 12,
+      "norm_label": "include"
+    },
+    {
+      "label": "angular.json",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L1",
+      "id": "angular_json",
+      "community": 6,
+      "norm_label": "angular.json"
+    },
+    {
+      "label": "$schema",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L2",
+      "id": "places_angular_schema",
+      "community": 6,
+      "norm_label": "$schema"
+    },
+    {
+      "label": "version",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L3",
+      "id": "places_angular_version",
+      "community": 6,
+      "norm_label": "version"
+    },
+    {
+      "label": "newProjectRoot",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L4",
+      "id": "places_angular_newprojectroot",
+      "community": 6,
+      "norm_label": "newprojectroot"
+    },
+    {
+      "label": "projects",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L5",
+      "id": "places_angular_projects",
+      "community": 6,
+      "norm_label": "projects"
+    },
+    {
+      "label": "bidi-buddy",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L6",
+      "id": "places_angular_projects_bidi_buddy",
+      "community": 6,
+      "norm_label": "bidi-buddy"
+    },
+    {
+      "label": "projectType",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L7",
+      "id": "places_angular_bidi_buddy_projecttype",
+      "community": 6,
+      "norm_label": "projecttype"
+    },
+    {
+      "label": "schematics",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L8",
+      "id": "places_angular_bidi_buddy_schematics",
+      "community": 6,
+      "norm_label": "schematics"
+    },
+    {
+      "label": "@schematics/angular:component",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L9",
+      "id": "places_angular_schematics_schematics_angular_component",
+      "community": 6,
+      "norm_label": "@schematics/angular:component"
+    },
+    {
+      "label": "style",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L10",
+      "id": "places_angular_schematics_angular_component_style",
+      "community": 6,
+      "norm_label": "style"
+    },
+    {
+      "label": "root",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L13",
+      "id": "places_angular_bidi_buddy_root",
+      "community": 6,
+      "norm_label": "root"
+    },
+    {
+      "label": "sourceRoot",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L14",
+      "id": "places_angular_bidi_buddy_sourceroot",
+      "community": 6,
+      "norm_label": "sourceroot"
+    },
+    {
+      "label": "prefix",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L15",
+      "id": "places_angular_bidi_buddy_prefix",
+      "community": 6,
+      "norm_label": "prefix"
+    },
+    {
+      "label": "architect",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L16",
+      "id": "places_angular_bidi_buddy_architect",
+      "community": 3,
+      "norm_label": "architect"
+    },
+    {
+      "label": "build",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L17",
+      "id": "places_angular_architect_build",
+      "community": 5,
+      "norm_label": "build"
+    },
+    {
+      "label": "builder",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L18",
+      "id": "places_angular_build_builder",
+      "community": 5,
+      "norm_label": "builder"
+    },
+    {
+      "label": "options",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L19",
+      "id": "places_angular_build_options",
+      "community": 7,
+      "norm_label": "options"
+    },
+    {
+      "label": "outputPath",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L20",
+      "id": "places_angular_options_outputpath",
+      "community": 7,
+      "norm_label": "outputpath"
+    },
+    {
+      "label": "index",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L21",
+      "id": "places_angular_options_index",
+      "community": 7,
+      "norm_label": "index"
+    },
+    {
+      "label": "main",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L22",
+      "id": "places_angular_options_main",
+      "community": 7,
+      "norm_label": "main"
+    },
+    {
+      "label": "polyfills",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L23",
+      "id": "places_angular_options_polyfills",
+      "community": 7,
+      "norm_label": "polyfills"
+    },
+    {
+      "label": "tsConfig",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L24",
+      "id": "places_angular_options_tsconfig",
+      "community": 7,
+      "norm_label": "tsconfig"
+    },
+    {
+      "label": "aot",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L25",
+      "id": "places_angular_options_aot",
+      "community": 7,
+      "norm_label": "aot"
+    },
+    {
+      "label": "assets",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L26",
+      "id": "places_angular_options_assets",
+      "community": 7,
+      "norm_label": "assets"
+    },
+    {
+      "label": "styles",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L30",
+      "id": "places_angular_options_styles",
+      "community": 7,
+      "norm_label": "styles"
+    },
+    {
+      "label": "scripts",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L33",
+      "id": "places_angular_options_scripts",
+      "community": 7,
+      "norm_label": "scripts"
+    },
+    {
+      "label": "configurations",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L35",
+      "id": "places_angular_build_configurations",
+      "community": 5,
+      "norm_label": "configurations"
+    },
+    {
+      "label": "production",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L36",
+      "id": "places_angular_configurations_production",
+      "community": 5,
+      "norm_label": "production"
+    },
+    {
+      "label": "fileReplacements",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L37",
+      "id": "places_angular_production_filereplacements",
+      "community": 5,
+      "norm_label": "filereplacements"
+    },
+    {
+      "label": "optimization",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L43",
+      "id": "places_angular_production_optimization",
+      "community": 5,
+      "norm_label": "optimization"
+    },
+    {
+      "label": "outputHashing",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L44",
+      "id": "places_angular_production_outputhashing",
+      "community": 5,
+      "norm_label": "outputhashing"
+    },
+    {
+      "label": "sourceMap",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L45",
+      "id": "places_angular_production_sourcemap",
+      "community": 5,
+      "norm_label": "sourcemap"
+    },
+    {
+      "label": "extractCss",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L46",
+      "id": "places_angular_production_extractcss",
+      "community": 5,
+      "norm_label": "extractcss"
+    },
+    {
+      "label": "namedChunks",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L47",
+      "id": "places_angular_production_namedchunks",
+      "community": 5,
+      "norm_label": "namedchunks"
+    },
+    {
+      "label": "extractLicenses",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L48",
+      "id": "places_angular_production_extractlicenses",
+      "community": 5,
+      "norm_label": "extractlicenses"
+    },
+    {
+      "label": "vendorChunk",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L49",
+      "id": "places_angular_production_vendorchunk",
+      "community": 5,
+      "norm_label": "vendorchunk"
+    },
+    {
+      "label": "buildOptimizer",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L50",
+      "id": "places_angular_production_buildoptimizer",
+      "community": 5,
+      "norm_label": "buildoptimizer"
+    },
+    {
+      "label": "budgets",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L51",
+      "id": "places_angular_production_budgets",
+      "community": 5,
+      "norm_label": "budgets"
+    },
+    {
+      "label": "serve",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L66",
+      "id": "places_angular_architect_serve",
+      "community": 3,
+      "norm_label": "serve"
+    },
+    {
+      "label": "builder",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L67",
+      "id": "places_angular_serve_builder",
+      "community": 3,
+      "norm_label": "builder"
+    },
+    {
+      "label": "options",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L68",
+      "id": "places_angular_serve_options",
+      "community": 3,
+      "norm_label": "options"
+    },
+    {
+      "label": "browserTarget",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L69",
+      "id": "places_angular_options_browsertarget",
+      "community": 3,
+      "norm_label": "browsertarget"
+    },
+    {
+      "label": "configurations",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L71",
+      "id": "places_angular_serve_configurations",
+      "community": 3,
+      "norm_label": "configurations"
+    },
+    {
+      "label": "browserTarget",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L73",
+      "id": "places_angular_production_browsertarget",
+      "community": 5,
+      "norm_label": "browsertarget"
+    },
+    {
+      "label": "extract-i18n",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L77",
+      "id": "places_angular_architect_extract_i18n",
+      "community": 3,
+      "norm_label": "extract-i18n"
+    },
+    {
+      "label": "builder",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L78",
+      "id": "places_angular_extract_i18n_builder",
+      "community": 3,
+      "norm_label": "builder"
+    },
+    {
+      "label": "options",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L79",
+      "id": "places_angular_extract_i18n_options",
+      "community": 3,
+      "norm_label": "options"
+    },
+    {
+      "label": "test",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L83",
+      "id": "places_angular_architect_test",
+      "community": 3,
+      "norm_label": "test"
+    },
+    {
+      "label": "builder",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L84",
+      "id": "places_angular_test_builder",
+      "community": 3,
+      "norm_label": "builder"
+    },
+    {
+      "label": "options",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L85",
+      "id": "places_angular_test_options",
+      "community": 7,
+      "norm_label": "options"
+    },
+    {
+      "label": "karmaConfig",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L89",
+      "id": "places_angular_options_karmaconfig",
+      "community": 7,
+      "norm_label": "karmaconfig"
+    },
+    {
+      "label": "lint",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L100",
+      "id": "places_angular_architect_lint",
+      "community": 3,
+      "norm_label": "lint"
+    },
+    {
+      "label": "builder",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L101",
+      "id": "places_angular_lint_builder",
+      "community": 3,
+      "norm_label": "builder"
+    },
+    {
+      "label": "options",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L102",
+      "id": "places_angular_lint_options",
+      "community": 7,
+      "norm_label": "options"
+    },
+    {
+      "label": "exclude",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L108",
+      "id": "places_angular_options_exclude",
+      "community": 7,
+      "norm_label": "exclude"
+    },
+    {
+      "label": "e2e",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L113",
+      "id": "places_angular_architect_e2e",
+      "community": 3,
+      "norm_label": "e2e"
+    },
+    {
+      "label": "builder",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L114",
+      "id": "places_angular_e2e_builder",
+      "community": 3,
+      "norm_label": "builder"
+    },
+    {
+      "label": "options",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L115",
+      "id": "places_angular_e2e_options",
+      "community": 3,
+      "norm_label": "options"
+    },
+    {
+      "label": "protractorConfig",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L116",
+      "id": "places_angular_options_protractorconfig",
+      "community": 3,
+      "norm_label": "protractorconfig"
+    },
+    {
+      "label": "devServerTarget",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L117",
+      "id": "places_angular_options_devservertarget",
+      "community": 3,
+      "norm_label": "devservertarget"
+    },
+    {
+      "label": "configurations",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L119",
+      "id": "places_angular_e2e_configurations",
+      "community": 3,
+      "norm_label": "configurations"
+    },
+    {
+      "label": "devServerTarget",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L121",
+      "id": "places_angular_production_devservertarget",
+      "community": 5,
+      "norm_label": "devservertarget"
+    },
+    {
+      "label": "defaultProject",
+      "file_type": "code",
+      "source_file": "angular.json",
+      "source_location": "L127",
+      "id": "places_angular_defaultproject",
+      "community": 6,
+      "norm_label": "defaultproject"
+    },
+    {
+      "label": "package.json",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L1",
+      "id": "package_json",
+      "community": 9,
+      "norm_label": "package.json"
+    },
+    {
+      "label": "name",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L2",
+      "id": "places_package_name",
+      "community": 9,
+      "norm_label": "name"
+    },
+    {
+      "label": "version",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L3",
+      "id": "places_package_version",
+      "community": 9,
+      "norm_label": "version"
+    },
+    {
+      "label": "scripts",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L4",
+      "id": "places_package_scripts",
+      "community": 9,
+      "norm_label": "scripts"
+    },
+    {
+      "label": "ng",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L5",
+      "id": "places_package_scripts_ng",
+      "community": 9,
+      "norm_label": "ng"
+    },
+    {
+      "label": "start",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L6",
+      "id": "places_package_scripts_start",
+      "community": 9,
+      "norm_label": "start"
+    },
+    {
+      "label": "build",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L7",
+      "id": "places_package_scripts_build",
+      "community": 9,
+      "norm_label": "build"
+    },
+    {
+      "label": "test",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L8",
+      "id": "places_package_scripts_test",
+      "community": 9,
+      "norm_label": "test"
+    },
+    {
+      "label": "lint",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L9",
+      "id": "places_package_scripts_lint",
+      "community": 9,
+      "norm_label": "lint"
+    },
+    {
+      "label": "e2e",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L10",
+      "id": "places_package_scripts_e2e",
+      "community": 9,
+      "norm_label": "e2e"
+    },
+    {
+      "label": "private",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L12",
+      "id": "places_package_private",
+      "community": 9,
+      "norm_label": "private"
+    },
+    {
+      "label": "dependencies",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L13",
+      "id": "places_package_dependencies",
+      "community": 8,
+      "norm_label": "dependencies"
+    },
+    {
+      "label": "@angular/animations",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L14",
+      "id": "places_package_dependencies_angular_animations",
+      "community": 8,
+      "norm_label": "@angular/animations"
+    },
+    {
+      "label": "@angular/common",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L15",
+      "id": "places_package_dependencies_angular_common",
+      "community": 8,
+      "norm_label": "@angular/common"
+    },
+    {
+      "label": "@angular/compiler",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L16",
+      "id": "places_package_dependencies_angular_compiler",
+      "community": 8,
+      "norm_label": "@angular/compiler"
+    },
+    {
+      "label": "@angular/core",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L17",
+      "id": "places_package_dependencies_angular_core",
+      "community": 8,
+      "norm_label": "@angular/core"
+    },
+    {
+      "label": "@angular/forms",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L18",
+      "id": "places_package_dependencies_angular_forms",
+      "community": 8,
+      "norm_label": "@angular/forms"
+    },
+    {
+      "label": "@angular/platform-browser",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L19",
+      "id": "places_package_dependencies_angular_platform_browser",
+      "community": 8,
+      "norm_label": "@angular/platform-browser"
+    },
+    {
+      "label": "@angular/platform-browser-dynamic",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L20",
+      "id": "places_package_dependencies_angular_platform_browser_dynamic",
+      "community": 8,
+      "norm_label": "@angular/platform-browser-dynamic"
+    },
+    {
+      "label": "@angular/router",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L21",
+      "id": "places_package_dependencies_angular_router",
+      "community": 8,
+      "norm_label": "@angular/router"
+    },
+    {
+      "label": "rxjs",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L22",
+      "id": "places_package_dependencies_rxjs",
+      "community": 8,
+      "norm_label": "rxjs"
+    },
+    {
+      "label": "rxjs-compat",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L23",
+      "id": "places_package_dependencies_rxjs_compat",
+      "community": 8,
+      "norm_label": "rxjs-compat"
+    },
+    {
+      "label": "tslib",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L24",
+      "id": "places_package_dependencies_tslib",
+      "community": 8,
+      "norm_label": "tslib"
+    },
+    {
+      "label": "zone.js",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L25",
+      "id": "places_package_dependencies_zone_js",
+      "community": 8,
+      "norm_label": "zone.js"
+    },
+    {
+      "label": "devDependencies",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L27",
+      "id": "places_package_devdependencies",
+      "community": 2,
+      "norm_label": "devdependencies"
+    },
+    {
+      "label": "@angular-devkit/build-angular",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L28",
+      "id": "places_package_devdependencies_angular_devkit_build_angular",
+      "community": 2,
+      "norm_label": "@angular-devkit/build-angular"
+    },
+    {
+      "label": "@angular/cli",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L29",
+      "id": "places_package_devdependencies_angular_cli",
+      "community": 2,
+      "norm_label": "@angular/cli"
+    },
+    {
+      "label": "@angular/compiler-cli",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L30",
+      "id": "places_package_devdependencies_angular_compiler_cli",
+      "community": 2,
+      "norm_label": "@angular/compiler-cli"
+    },
+    {
+      "label": "@angular/language-service",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L31",
+      "id": "places_package_devdependencies_angular_language_service",
+      "community": 2,
+      "norm_label": "@angular/language-service"
+    },
+    {
+      "label": "@types/node",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L32",
+      "id": "places_package_devdependencies_types_node",
+      "community": 2,
+      "norm_label": "@types/node"
+    },
+    {
+      "label": "@types/jasmine",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L33",
+      "id": "places_package_devdependencies_types_jasmine",
+      "community": 2,
+      "norm_label": "@types/jasmine"
+    },
+    {
+      "label": "@types/jasminewd2",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L34",
+      "id": "places_package_devdependencies_types_jasminewd2",
+      "community": 2,
+      "norm_label": "@types/jasminewd2"
+    },
+    {
+      "label": "codelyzer",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L35",
+      "id": "places_package_devdependencies_codelyzer",
+      "community": 2,
+      "norm_label": "codelyzer"
+    },
+    {
+      "label": "jasmine-core",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L36",
+      "id": "places_package_devdependencies_jasmine_core",
+      "community": 2,
+      "norm_label": "jasmine-core"
+    },
+    {
+      "label": "jasmine-spec-reporter",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L37",
+      "id": "places_package_devdependencies_jasmine_spec_reporter",
+      "community": 2,
+      "norm_label": "jasmine-spec-reporter"
+    },
+    {
+      "label": "karma",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L38",
+      "id": "places_package_devdependencies_karma",
+      "community": 2,
+      "norm_label": "karma"
+    },
+    {
+      "label": "karma-chrome-launcher",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L39",
+      "id": "places_package_devdependencies_karma_chrome_launcher",
+      "community": 2,
+      "norm_label": "karma-chrome-launcher"
+    },
+    {
+      "label": "karma-coverage-istanbul-reporter",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L40",
+      "id": "places_package_devdependencies_karma_coverage_istanbul_reporter",
+      "community": 2,
+      "norm_label": "karma-coverage-istanbul-reporter"
+    },
+    {
+      "label": "karma-jasmine",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L41",
+      "id": "places_package_devdependencies_karma_jasmine",
+      "community": 2,
+      "norm_label": "karma-jasmine"
+    },
+    {
+      "label": "karma-jasmine-html-reporter",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L42",
+      "id": "places_package_devdependencies_karma_jasmine_html_reporter",
+      "community": 2,
+      "norm_label": "karma-jasmine-html-reporter"
+    },
+    {
+      "label": "protractor",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L43",
+      "id": "places_package_devdependencies_protractor",
+      "community": 2,
+      "norm_label": "protractor"
+    },
+    {
+      "label": "ts-node",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L44",
+      "id": "places_package_devdependencies_ts_node",
+      "community": 2,
+      "norm_label": "ts-node"
+    },
+    {
+      "label": "tslint",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L45",
+      "id": "places_package_devdependencies_tslint",
+      "community": 2,
+      "norm_label": "tslint"
+    },
+    {
+      "label": "typescript",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L46",
+      "id": "places_package_devdependencies_typescript",
+      "community": 2,
+      "norm_label": "typescript"
+    },
+    {
+      "label": "tslint.json",
+      "file_type": "code",
+      "source_file": "tslint.json",
+      "source_location": "L1",
+      "id": "tslint_json",
+      "community": 0,
+      "norm_label": "tslint.json"
+    },
+    {
+      "label": "extends",
+      "file_type": "code",
+      "source_file": "tslint.json",
+      "source_location": "L2",
+      "id": "places_tslint_extends",
+      "community": 0,
+      "norm_label": "extends"
+    },
+    {
+      "label": "rules",
+      "file_type": "code",
+      "source_file": "tslint.json",
+      "source_location": "L3",
+      "id": "places_tslint_rules",
+      "community": 0,
+      "norm_label": "rules"
+    },
+    {
+      "label": "array-type",
+      "file_type": "code",
+      "source_file": "tslint.json",
+      "source_location": "L4",
+      "id": "places_tslint_rules_array_type",
+      "community": 0,
+      "norm_label": "array-type"
+    },
+    {
+      "label": "arrow-parens",
+      "file_type": "code",
+      "source_file": "tslint.json",
+      "source_location": "L5",
+      "id": "places_tslint_rules_arrow_parens",
+      "community": 0,
+      "norm_label": "arrow-parens"
+    },
+    {
+      "label": "deprecation",
+      "file_type": "code",
+      "source_file": "tslint.json",
+      "source_location": "L6",
+      "id": "places_tslint_rules_deprecation",
+      "community": 0,
+      "norm_label": "deprecation"
+    },
+    {
+      "label": "severity",
+      "file_type": "code",
+      "source_file": "tslint.json",
+      "source_location": "L7",
+      "id": "places_tslint_deprecation_severity",
+      "community": 0,
+      "norm_label": "severity"
+    },
+    {
+      "label": "component-class-suffix",
+      "file_type": "code",
+      "source_file": "tslint.json",
+      "source_location": "L9",
+      "id": "places_tslint_rules_component_class_suffix",
+      "community": 0,
+      "norm_label": "component-class-suffix"
+    },
+    {
+      "label": "contextual-lifecycle",
+      "file_type": "code",
+      "source_file": "tslint.json",
+      "source_location": "L10",
+      "id": "places_tslint_rules_contextual_lifecycle",
+      "community": 0,
+      "norm_label": "contextual-lifecycle"
+    },
+    {
+      "label": "directive-class-suffix",
+      "file_type": "code",
+      "source_file": "tslint.json",
+      "source_location": "L11",
+      "id": "places_tslint_rules_directive_class_suffix",
+      "community": 0,
+      "norm_label": "directive-class-suffix"
+    },
+    {
+      "label": "directive-selector",
+      "file_type": "code",
+      "source_file": "tslint.json",
+      "source_location": "L12",
+      "id": "places_tslint_rules_directive_selector",
+      "community": 0,
+      "norm_label": "directive-selector"
+    },
+    {
+      "label": "component-selector",
+      "file_type": "code",
+      "source_file": "tslint.json",
+      "source_location": "L18",
+      "id": "places_tslint_rules_component_selector",
+      "community": 0,
+      "norm_label": "component-selector"
+    },
+    {
+      "label": "import-blacklist",
+      "file_type": "code",
+      "source_file": "tslint.json",
+      "source_location": "L24",
+      "id": "places_tslint_rules_import_blacklist",
+      "community": 0,
+      "norm_label": "import-blacklist"
+    },
+    {
+      "label": "interface-name",
+      "file_type": "code",
+      "source_file": "tslint.json",
+      "source_location": "L28",
+      "id": "places_tslint_rules_interface_name",
+      "community": 0,
+      "norm_label": "interface-name"
+    },
+    {
+      "label": "max-classes-per-file",
+      "file_type": "code",
+      "source_file": "tslint.json",
+      "source_location": "L29",
+      "id": "places_tslint_rules_max_classes_per_file",
+      "community": 0,
+      "norm_label": "max-classes-per-file"
+    },
+    {
+      "label": "max-line-length",
+      "file_type": "code",
+      "source_file": "tslint.json",
+      "source_location": "L30",
+      "id": "places_tslint_rules_max_line_length",
+      "community": 0,
+      "norm_label": "max-line-length"
+    },
+    {
+      "label": "member-access",
+      "file_type": "code",
+      "source_file": "tslint.json",
+      "source_location": "L34",
+      "id": "places_tslint_rules_member_access",
+      "community": 0,
+      "norm_label": "member-access"
+    },
+    {
+      "label": "member-ordering",
+      "file_type": "code",
+      "source_file": "tslint.json",
+      "source_location": "L35",
+      "id": "places_tslint_rules_member_ordering",
+      "community": 0,
+      "norm_label": "member-ordering"
+    },
+    {
+      "label": "no-consecutive-blank-lines",
+      "file_type": "code",
+      "source_file": "tslint.json",
+      "source_location": "L46",
+      "id": "places_tslint_rules_no_consecutive_blank_lines",
+      "community": 0,
+      "norm_label": "no-consecutive-blank-lines"
+    },
+    {
+      "label": "no-console",
+      "file_type": "code",
+      "source_file": "tslint.json",
+      "source_location": "L47",
+      "id": "places_tslint_rules_no_console",
+      "community": 0,
+      "norm_label": "no-console"
+    },
+    {
+      "label": "no-empty",
+      "file_type": "code",
+      "source_file": "tslint.json",
+      "source_location": "L55",
+      "id": "places_tslint_rules_no_empty",
+      "community": 0,
+      "norm_label": "no-empty"
+    },
+    {
+      "label": "no-inferrable-types",
+      "file_type": "code",
+      "source_file": "tslint.json",
+      "source_location": "L56",
+      "id": "places_tslint_rules_no_inferrable_types",
+      "community": 0,
+      "norm_label": "no-inferrable-types"
+    },
+    {
+      "label": "no-non-null-assertion",
+      "file_type": "code",
+      "source_file": "tslint.json",
+      "source_location": "L60",
+      "id": "places_tslint_rules_no_non_null_assertion",
+      "community": 0,
+      "norm_label": "no-non-null-assertion"
+    },
+    {
+      "label": "no-redundant-jsdoc",
+      "file_type": "code",
+      "source_file": "tslint.json",
+      "source_location": "L61",
+      "id": "places_tslint_rules_no_redundant_jsdoc",
+      "community": 0,
+      "norm_label": "no-redundant-jsdoc"
+    },
+    {
+      "label": "no-switch-case-fall-through",
+      "file_type": "code",
+      "source_file": "tslint.json",
+      "source_location": "L62",
+      "id": "places_tslint_rules_no_switch_case_fall_through",
+      "community": 0,
+      "norm_label": "no-switch-case-fall-through"
+    },
+    {
+      "label": "no-var-requires",
+      "file_type": "code",
+      "source_file": "tslint.json",
+      "source_location": "L63",
+      "id": "places_tslint_rules_no_var_requires",
+      "community": 0,
+      "norm_label": "no-var-requires"
+    },
+    {
+      "label": "object-literal-key-quotes",
+      "file_type": "code",
+      "source_file": "tslint.json",
+      "source_location": "L64",
+      "id": "places_tslint_rules_object_literal_key_quotes",
+      "community": 0,
+      "norm_label": "object-literal-key-quotes"
+    },
+    {
+      "label": "object-literal-sort-keys",
+      "file_type": "code",
+      "source_file": "tslint.json",
+      "source_location": "L68",
+      "id": "places_tslint_rules_object_literal_sort_keys",
+      "community": 0,
+      "norm_label": "object-literal-sort-keys"
+    },
+    {
+      "label": "ordered-imports",
+      "file_type": "code",
+      "source_file": "tslint.json",
+      "source_location": "L69",
+      "id": "places_tslint_rules_ordered_imports",
+      "community": 0,
+      "norm_label": "ordered-imports"
+    },
+    {
+      "label": "quotemark",
+      "file_type": "code",
+      "source_file": "tslint.json",
+      "source_location": "L70",
+      "id": "places_tslint_rules_quotemark",
+      "community": 0,
+      "norm_label": "quotemark"
+    },
+    {
+      "label": "trailing-comma",
+      "file_type": "code",
+      "source_file": "tslint.json",
+      "source_location": "L74",
+      "id": "places_tslint_rules_trailing_comma",
+      "community": 0,
+      "norm_label": "trailing-comma"
+    },
+    {
+      "label": "no-conflicting-lifecycle",
+      "file_type": "code",
+      "source_file": "tslint.json",
+      "source_location": "L75",
+      "id": "places_tslint_rules_no_conflicting_lifecycle",
+      "community": 0,
+      "norm_label": "no-conflicting-lifecycle"
+    },
+    {
+      "label": "no-host-metadata-property",
+      "file_type": "code",
+      "source_file": "tslint.json",
+      "source_location": "L76",
+      "id": "places_tslint_rules_no_host_metadata_property",
+      "community": 0,
+      "norm_label": "no-host-metadata-property"
+    },
+    {
+      "label": "no-input-rename",
+      "file_type": "code",
+      "source_file": "tslint.json",
+      "source_location": "L77",
+      "id": "places_tslint_rules_no_input_rename",
+      "community": 0,
+      "norm_label": "no-input-rename"
+    },
+    {
+      "label": "no-inputs-metadata-property",
+      "file_type": "code",
+      "source_file": "tslint.json",
+      "source_location": "L78",
+      "id": "places_tslint_rules_no_inputs_metadata_property",
+      "community": 0,
+      "norm_label": "no-inputs-metadata-property"
+    },
+    {
+      "label": "no-output-native",
+      "file_type": "code",
+      "source_file": "tslint.json",
+      "source_location": "L79",
+      "id": "places_tslint_rules_no_output_native",
+      "community": 0,
+      "norm_label": "no-output-native"
+    },
+    {
+      "label": "no-output-on-prefix",
+      "file_type": "code",
+      "source_file": "tslint.json",
+      "source_location": "L80",
+      "id": "places_tslint_rules_no_output_on_prefix",
+      "community": 0,
+      "norm_label": "no-output-on-prefix"
+    },
+    {
+      "label": "no-output-rename",
+      "file_type": "code",
+      "source_file": "tslint.json",
+      "source_location": "L81",
+      "id": "places_tslint_rules_no_output_rename",
+      "community": 0,
+      "norm_label": "no-output-rename"
+    },
+    {
+      "label": "no-outputs-metadata-property",
+      "file_type": "code",
+      "source_file": "tslint.json",
+      "source_location": "L82",
+      "id": "places_tslint_rules_no_outputs_metadata_property",
+      "community": 0,
+      "norm_label": "no-outputs-metadata-property"
+    },
+    {
+      "label": "template-banana-in-box",
+      "file_type": "code",
+      "source_file": "tslint.json",
+      "source_location": "L83",
+      "id": "places_tslint_rules_template_banana_in_box",
+      "community": 0,
+      "norm_label": "template-banana-in-box"
+    },
+    {
+      "label": "template-no-negated-async",
+      "file_type": "code",
+      "source_file": "tslint.json",
+      "source_location": "L84",
+      "id": "places_tslint_rules_template_no_negated_async",
+      "community": 0,
+      "norm_label": "template-no-negated-async"
+    },
+    {
+      "label": "use-lifecycle-interface",
+      "file_type": "code",
+      "source_file": "tslint.json",
+      "source_location": "L85",
+      "id": "places_tslint_rules_use_lifecycle_interface",
+      "community": 0,
+      "norm_label": "use-lifecycle-interface"
+    },
+    {
+      "label": "use-pipe-transform-interface",
+      "file_type": "code",
+      "source_file": "tslint.json",
+      "source_location": "L86",
+      "id": "places_tslint_rules_use_pipe_transform_interface",
+      "community": 0,
+      "norm_label": "use-pipe-transform-interface"
+    },
+    {
+      "label": "rulesDirectory",
+      "file_type": "code",
+      "source_file": "tslint.json",
+      "source_location": "L88",
+      "id": "places_tslint_rulesdirectory",
+      "community": 0,
+      "norm_label": "rulesdirectory"
+    },
+    {
+      "label": "karma.conf.js",
+      "file_type": "code",
+      "source_file": "karma.conf.js",
+      "source_location": "L1",
+      "id": "karma_conf_js",
+      "community": 19,
+      "norm_label": "karma.conf.js"
+    },
+    {
+      "label": "tsconfig.json",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L1",
+      "id": "tsconfig_json",
+      "community": 4,
+      "norm_label": "tsconfig.json"
+    },
+    {
+      "label": "compileOnSave",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L2",
+      "id": "places_tsconfig_compileonsave",
+      "community": 4,
+      "norm_label": "compileonsave"
+    },
+    {
+      "label": "compilerOptions",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L3",
+      "id": "places_tsconfig_compileroptions",
+      "community": 4,
+      "norm_label": "compileroptions"
+    },
+    {
+      "label": "baseUrl",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L4",
+      "id": "places_tsconfig_compileroptions_baseurl",
+      "community": 4,
+      "norm_label": "baseurl"
+    },
+    {
+      "label": "outDir",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L5",
+      "id": "places_tsconfig_compileroptions_outdir",
+      "community": 4,
+      "norm_label": "outdir"
+    },
+    {
+      "label": "sourceMap",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L6",
+      "id": "places_tsconfig_compileroptions_sourcemap",
+      "community": 4,
+      "norm_label": "sourcemap"
+    },
+    {
+      "label": "declaration",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L7",
+      "id": "places_tsconfig_compileroptions_declaration",
+      "community": 4,
+      "norm_label": "declaration"
+    },
+    {
+      "label": "downlevelIteration",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L8",
+      "id": "places_tsconfig_compileroptions_downleveliteration",
+      "community": 4,
+      "norm_label": "downleveliteration"
+    },
+    {
+      "label": "experimentalDecorators",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L9",
+      "id": "places_tsconfig_compileroptions_experimentaldecorators",
+      "community": 4,
+      "norm_label": "experimentaldecorators"
+    },
+    {
+      "label": "module",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L10",
+      "id": "places_tsconfig_compileroptions_module",
+      "community": 4,
+      "norm_label": "module"
+    },
+    {
+      "label": "moduleResolution",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L11",
+      "id": "places_tsconfig_compileroptions_moduleresolution",
+      "community": 4,
+      "norm_label": "moduleresolution"
+    },
+    {
+      "label": "importHelpers",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L12",
+      "id": "places_tsconfig_compileroptions_importhelpers",
+      "community": 4,
+      "norm_label": "importhelpers"
+    },
+    {
+      "label": "target",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L13",
+      "id": "places_tsconfig_compileroptions_target",
+      "community": 4,
+      "norm_label": "target"
+    },
+    {
+      "label": "typeRoots",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L14",
+      "id": "places_tsconfig_compileroptions_typeroots",
+      "community": 4,
+      "norm_label": "typeroots"
+    },
+    {
+      "label": "lib",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L17",
+      "id": "places_tsconfig_compileroptions_lib",
+      "community": 4,
+      "norm_label": "lib"
+    },
+    {
+      "label": "angularCompilerOptions",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L22",
+      "id": "places_tsconfig_angularcompileroptions",
+      "community": 4,
+      "norm_label": "angularcompileroptions"
+    },
+    {
+      "label": "fullTemplateTypeCheck",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L23",
+      "id": "places_tsconfig_angularcompileroptions_fulltemplatetypecheck",
+      "community": 4,
+      "norm_label": "fulltemplatetypecheck"
+    },
+    {
+      "label": "strictInjectionParameters",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L24",
+      "id": "places_tsconfig_angularcompileroptions_strictinjectionparameters",
+      "community": 4,
+      "norm_label": "strictinjectionparameters"
+    },
+    {
+      "label": "tsconfig.spec.json",
+      "file_type": "code",
+      "source_file": "tsconfig.spec.json",
+      "source_location": "L1",
+      "id": "tsconfig_spec_json",
+      "community": 13,
+      "norm_label": "tsconfig.spec.json"
+    },
+    {
+      "label": "extends",
+      "file_type": "code",
+      "source_file": "tsconfig.spec.json",
+      "source_location": "L2",
+      "id": "places_tsconfig_spec_extends",
+      "community": 13,
+      "norm_label": "extends"
+    },
+    {
+      "label": "compilerOptions",
+      "file_type": "code",
+      "source_file": "tsconfig.spec.json",
+      "source_location": "L3",
+      "id": "places_tsconfig_spec_compileroptions",
+      "community": 13,
+      "norm_label": "compileroptions"
+    },
+    {
+      "label": "outDir",
+      "file_type": "code",
+      "source_file": "tsconfig.spec.json",
+      "source_location": "L4",
+      "id": "places_tsconfig_spec_compileroptions_outdir",
+      "community": 13,
+      "norm_label": "outdir"
+    },
+    {
+      "label": "types",
+      "file_type": "code",
+      "source_file": "tsconfig.spec.json",
+      "source_location": "L5",
+      "id": "places_tsconfig_spec_compileroptions_types",
+      "community": 13,
+      "norm_label": "types"
+    },
+    {
+      "label": "files",
+      "file_type": "code",
+      "source_file": "tsconfig.spec.json",
+      "source_location": "L10",
+      "id": "places_tsconfig_spec_files",
+      "community": 13,
+      "norm_label": "files"
+    },
+    {
+      "label": "include",
+      "file_type": "code",
+      "source_file": "tsconfig.spec.json",
+      "source_location": "L14",
+      "id": "places_tsconfig_spec_include",
+      "community": 13,
+      "norm_label": "include"
+    },
+    {
+      "label": "protractor.conf.js",
+      "file_type": "code",
+      "source_file": "e2e/protractor.conf.js",
+      "source_location": "L1",
+      "id": "e2e_protractor_conf_js",
+      "community": 16,
+      "norm_label": "protractor.conf.js"
+    },
+    {
+      "label": "{ SpecReporter }",
+      "file_type": "code",
+      "source_file": "e2e/protractor.conf.js",
+      "source_location": "L5",
+      "id": "e2e_protractor_conf_specreporter",
+      "community": 16,
+      "norm_label": "{ specreporter }"
+    },
+    {
+      "label": "onPrepare()",
+      "file_type": "code",
+      "source_file": "e2e/protractor.conf.js",
+      "source_location": "L26",
+      "id": "e2e_protractor_conf_onprepare",
+      "community": 16,
+      "norm_label": "onprepare()"
+    },
+    {
+      "label": "tsconfig.json",
+      "file_type": "code",
+      "source_file": "e2e/tsconfig.json",
+      "source_location": "L1",
+      "id": "e2e_tsconfig_json",
+      "community": 11,
+      "norm_label": "tsconfig.json"
+    },
+    {
+      "label": "extends",
+      "file_type": "code",
+      "source_file": "e2e/tsconfig.json",
+      "source_location": "L2",
+      "id": "e2e_tsconfig_extends",
+      "community": 11,
+      "norm_label": "extends"
+    },
+    {
+      "label": "compilerOptions",
+      "file_type": "code",
+      "source_file": "e2e/tsconfig.json",
+      "source_location": "L3",
+      "id": "e2e_tsconfig_compileroptions",
+      "community": 11,
+      "norm_label": "compileroptions"
+    },
+    {
+      "label": "outDir",
+      "file_type": "code",
+      "source_file": "e2e/tsconfig.json",
+      "source_location": "L4",
+      "id": "e2e_tsconfig_compileroptions_outdir",
+      "community": 11,
+      "norm_label": "outdir"
+    },
+    {
+      "label": "module",
+      "file_type": "code",
+      "source_file": "e2e/tsconfig.json",
+      "source_location": "L5",
+      "id": "e2e_tsconfig_compileroptions_module",
+      "community": 11,
+      "norm_label": "module"
+    },
+    {
+      "label": "target",
+      "file_type": "code",
+      "source_file": "e2e/tsconfig.json",
+      "source_location": "L6",
+      "id": "e2e_tsconfig_compileroptions_target",
+      "community": 11,
+      "norm_label": "target"
+    },
+    {
+      "label": "types",
+      "file_type": "code",
+      "source_file": "e2e/tsconfig.json",
+      "source_location": "L7",
+      "id": "e2e_tsconfig_compileroptions_types",
+      "community": 11,
+      "norm_label": "types"
+    },
+    {
+      "label": "app.e2e-spec.ts",
+      "file_type": "code",
+      "source_file": "e2e/src/app.e2e-spec.ts",
+      "source_location": "L1",
+      "id": "e2e_src_app_e2e_spec_ts",
+      "community": 14,
+      "norm_label": "app.e2e-spec.ts"
+    },
+    {
+      "label": "app.po.ts",
+      "file_type": "code",
+      "source_file": "e2e/src/app.po.ts",
+      "source_location": "L1",
+      "id": "e2e_src_app_po_ts",
+      "community": 14,
+      "norm_label": "app.po.ts"
+    },
+    {
+      "label": "AppPage",
+      "file_type": "code",
+      "source_file": "e2e/src/app.po.ts",
+      "source_location": "L3",
+      "id": "src_app_po_apppage",
+      "community": 14,
+      "norm_label": "apppage"
+    },
+    {
+      "label": ".navigateTo()",
+      "file_type": "code",
+      "source_file": "e2e/src/app.po.ts",
+      "source_location": "L4",
+      "id": "src_app_po_apppage_navigateto",
+      "community": 14,
+      "norm_label": ".navigateto()"
+    },
+    {
+      "label": ".getTitleText()",
+      "file_type": "code",
+      "source_file": "e2e/src/app.po.ts",
+      "source_location": "L8",
+      "id": "src_app_po_apppage_gettitletext",
+      "community": 14,
+      "norm_label": ".gettitletext()"
+    },
+    {
+      "label": "main.ts",
+      "file_type": "code",
+      "source_file": "src/main.ts",
+      "source_location": "L1",
+      "id": "src_main_ts",
+      "community": 1,
+      "norm_label": "main.ts"
+    },
+    {
+      "label": "test.ts",
+      "file_type": "code",
+      "source_file": "src/test.ts",
+      "source_location": "L1",
+      "id": "src_test_ts",
+      "community": 18,
+      "norm_label": "test.ts"
+    },
+    {
+      "label": "context",
+      "file_type": "code",
+      "source_file": "src/test.ts",
+      "source_location": "L23",
+      "id": "src_test_context",
+      "community": 18,
+      "norm_label": "context"
+    },
+    {
+      "label": "polyfills.ts",
+      "file_type": "code",
+      "source_file": "src/polyfills.ts",
+      "source_location": "L1",
+      "id": "src_polyfills_ts",
+      "community": 20,
+      "norm_label": "polyfills.ts"
+    },
+    {
+      "label": "app-routing.module.ts",
+      "file_type": "code",
+      "source_file": "src/app/app-routing.module.ts",
+      "source_location": "L1",
+      "id": "src_app_app_routing_module_ts",
+      "community": 1,
+      "norm_label": "app-routing.module.ts"
+    },
+    {
+      "label": "routes",
+      "file_type": "code",
+      "source_file": "src/app/app-routing.module.ts",
+      "source_location": "L5",
+      "id": "app_app_routing_module_routes",
+      "community": 1,
+      "norm_label": "routes"
+    },
+    {
+      "label": "AppRoutingModule",
+      "file_type": "code",
+      "source_file": "src/app/app-routing.module.ts",
+      "source_location": "L11",
+      "id": "app_app_routing_module_approutingmodule",
+      "community": 1,
+      "norm_label": "approutingmodule"
+    },
+    {
+      "label": "app.component.spec.ts",
+      "file_type": "code",
+      "source_file": "src/app/app.component.spec.ts",
+      "source_location": "L1",
+      "id": "src_app_app_component_spec_ts",
+      "community": 1,
+      "norm_label": "app.component.spec.ts"
+    },
+    {
+      "label": "fixture",
+      "file_type": "code",
+      "source_file": "src/app/app.component.spec.ts",
+      "source_location": "L18",
+      "id": "app_app_component_spec_fixture",
+      "community": 1,
+      "norm_label": "fixture"
+    },
+    {
+      "label": "app.module.ts",
+      "file_type": "code",
+      "source_file": "src/app/app.module.ts",
+      "source_location": "L1",
+      "id": "src_app_app_module_ts",
+      "community": 1,
+      "norm_label": "app.module.ts"
+    },
+    {
+      "label": "AppModule",
+      "file_type": "code",
+      "source_file": "src/app/app.module.ts",
+      "source_location": "L22",
+      "id": "app_app_module_appmodule",
+      "community": 1,
+      "norm_label": "appmodule"
+    },
+    {
+      "label": "app.component.ts",
+      "file_type": "code",
+      "source_file": "src/app/app.component.ts",
+      "source_location": "L1",
+      "id": "src_app_app_component_ts",
+      "community": 1,
+      "norm_label": "app.component.ts"
+    },
+    {
+      "label": "AppComponent",
+      "file_type": "code",
+      "source_file": "src/app/app.component.ts",
+      "source_location": "L8",
+      "id": "app_app_component_appcomponent",
+      "community": 1,
+      "norm_label": "appcomponent"
+    },
+    {
+      "label": "rest-services.service.ts",
+      "file_type": "code",
+      "source_file": "src/app/rest-services.service.ts",
+      "source_location": "L1",
+      "id": "src_app_rest_services_service_ts",
+      "community": 1,
+      "norm_label": "rest-services.service.ts"
+    },
+    {
+      "label": "RestServicesService",
+      "file_type": "code",
+      "source_file": "src/app/rest-services.service.ts",
+      "source_location": "L9",
+      "id": "app_rest_services_service_restservicesservice",
+      "community": 1,
+      "norm_label": "restservicesservice"
+    },
+    {
+      "label": ".constructor()",
+      "file_type": "code",
+      "source_file": "src/app/rest-services.service.ts",
+      "source_location": "L11",
+      "id": "app_rest_services_service_restservicesservice_constructor",
+      "community": 1,
+      "norm_label": ".constructor()"
+    },
+    {
+      "label": ".getJSON()",
+      "file_type": "code",
+      "source_file": "src/app/rest-services.service.ts",
+      "source_location": "L13",
+      "id": "app_rest_services_service_restservicesservice_getjson",
+      "community": 1,
+      "norm_label": ".getjson()"
+    },
+    {
+      "label": "rest-services.service.spec.ts",
+      "file_type": "code",
+      "source_file": "src/app/rest-services.service.spec.ts",
+      "source_location": "L1",
+      "id": "src_app_rest_services_service_spec_ts",
+      "community": 1,
+      "norm_label": "rest-services.service.spec.ts"
+    },
+    {
+      "label": "place-list.component.spec.ts",
+      "file_type": "code",
+      "source_file": "src/app/place-list/place-list.component.spec.ts",
+      "source_location": "L1",
+      "id": "src_app_place_list_place_list_component_spec_ts",
+      "community": 1,
+      "norm_label": "place-list.component.spec.ts"
+    },
+    {
+      "label": "place-list.component.ts",
+      "file_type": "code",
+      "source_file": "src/app/place-list/place-list.component.ts",
+      "source_location": "L1",
+      "id": "src_app_place_list_place_list_component_ts",
+      "community": 1,
+      "norm_label": "place-list.component.ts"
+    },
+    {
+      "label": "PlaceListComponent",
+      "file_type": "code",
+      "source_file": "src/app/place-list/place-list.component.ts",
+      "source_location": "L10",
+      "id": "place_list_place_list_component_placelistcomponent",
+      "community": 1,
+      "norm_label": "placelistcomponent"
+    },
+    {
+      "label": ".constructor()",
+      "file_type": "code",
+      "source_file": "src/app/place-list/place-list.component.ts",
+      "source_location": "L12",
+      "id": "place_list_place_list_component_placelistcomponent_constructor",
+      "community": 1,
+      "norm_label": ".constructor()"
+    },
+    {
+      "label": ".ngOnInit()",
+      "file_type": "code",
+      "source_file": "src/app/place-list/place-list.component.ts",
+      "source_location": "L20",
+      "id": "place_list_place_list_component_placelistcomponent_ngoninit",
+      "community": 1,
+      "norm_label": ".ngoninit()"
+    },
+    {
+      "label": "environment.prod.ts",
+      "file_type": "code",
+      "source_file": "src/environments/environment.prod.ts",
+      "source_location": "L1",
+      "id": "src_environments_environment_prod_ts",
+      "community": 17,
+      "norm_label": "environment.prod.ts"
+    },
+    {
+      "label": "environment",
+      "file_type": "code",
+      "source_file": "src/environments/environment.prod.ts",
+      "source_location": "L1",
+      "id": "environments_environment_prod_environment",
+      "community": 17,
+      "norm_label": "environment"
+    },
+    {
+      "label": "environment.ts",
+      "file_type": "code",
+      "source_file": "src/environments/environment.ts",
+      "source_location": "L1",
+      "id": "src_environments_environment_ts",
+      "community": 1,
+      "norm_label": "environment.ts"
+    },
+    {
+      "label": "environment",
+      "file_type": "code",
+      "source_file": "src/environments/environment.ts",
+      "source_location": "L5",
+      "id": "environments_environment_environment",
+      "community": 1,
+      "norm_label": "environment"
+    },
+    {
+      "label": "mydata.json",
+      "file_type": "code",
+      "source_file": "src/assets/mydata.json",
+      "source_location": "L1",
+      "id": "src_assets_mydata_json",
+      "community": 15,
+      "norm_label": "mydata.json"
+    },
+    {
+      "label": "html_attributions",
+      "file_type": "code",
+      "source_file": "src/assets/mydata.json",
+      "source_location": "L2",
+      "id": "assets_mydata_html_attributions",
+      "community": 15,
+      "norm_label": "html_attributions"
+    },
+    {
+      "label": "results",
+      "file_type": "code",
+      "source_file": "src/assets/mydata.json",
+      "source_location": "L3",
+      "id": "assets_mydata_results",
+      "community": 15,
+      "norm_label": "results"
+    },
+    {
+      "label": "status",
+      "file_type": "code",
+      "source_file": "src/assets/mydata.json",
+      "source_location": "L957",
+      "id": "assets_mydata_status",
+      "community": 15,
+      "norm_label": "status"
+    },
+    {
+      "label": "README.md",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "id": "readme_md",
+      "community": 10,
+      "norm_label": "readme.md"
+    },
+    {
+      "label": "BidiBuddy",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "id": "places_readme_bidibuddy",
+      "community": 10,
+      "norm_label": "bidibuddy"
+    },
+    {
+      "label": "Development server",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L5",
+      "id": "places_readme_development_server",
+      "community": 10,
+      "norm_label": "development server"
+    },
+    {
+      "label": "Code scaffolding",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L9",
+      "id": "places_readme_code_scaffolding",
+      "community": 10,
+      "norm_label": "code scaffolding"
+    },
+    {
+      "label": "Build",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L13",
+      "id": "places_readme_build",
+      "community": 10,
+      "norm_label": "build"
+    },
+    {
+      "label": "Running unit tests",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L17",
+      "id": "places_readme_running_unit_tests",
+      "community": 10,
+      "norm_label": "running unit tests"
+    },
+    {
+      "label": "Running end-to-end tests",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L21",
+      "id": "places_readme_running_end_to_end_tests",
+      "community": 10,
+      "norm_label": "running end-to-end tests"
+    },
+    {
+      "label": "Further help",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L25",
+      "id": "places_readme_further_help",
+      "community": 10,
+      "norm_label": "further help"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.app.json",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "tsconfig_app_json",
+      "target": "places_tsconfig_app_extends",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.app.json",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "tsconfig_app_json",
+      "target": "places_tsconfig_app_compileroptions",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.app.json",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "tsconfig_app_json",
+      "target": "places_tsconfig_app_files",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.app.json",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "tsconfig_app_json",
+      "target": "places_tsconfig_app_include",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.app.json",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "places_tsconfig_app_compileroptions",
+      "target": "places_tsconfig_app_compileroptions_outdir",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.app.json",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "places_tsconfig_app_compileroptions",
+      "target": "places_tsconfig_app_compileroptions_types",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "angular_json",
+      "target": "places_angular_schema",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "angular_json",
+      "target": "places_angular_version",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "angular_json",
+      "target": "places_angular_newprojectroot",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "angular_json",
+      "target": "places_angular_projects",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L127",
+      "weight": 1.0,
+      "source": "angular_json",
+      "target": "places_angular_defaultproject",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "places_angular_projects",
+      "target": "places_angular_projects_bidi_buddy",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "places_angular_projects_bidi_buddy",
+      "target": "places_angular_bidi_buddy_projecttype",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "places_angular_projects_bidi_buddy",
+      "target": "places_angular_bidi_buddy_schematics",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "places_angular_projects_bidi_buddy",
+      "target": "places_angular_bidi_buddy_root",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "places_angular_projects_bidi_buddy",
+      "target": "places_angular_bidi_buddy_sourceroot",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "places_angular_projects_bidi_buddy",
+      "target": "places_angular_bidi_buddy_prefix",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "places_angular_projects_bidi_buddy",
+      "target": "places_angular_bidi_buddy_architect",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "places_angular_bidi_buddy_schematics",
+      "target": "places_angular_schematics_schematics_angular_component",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "places_angular_schematics_schematics_angular_component",
+      "target": "places_angular_schematics_angular_component_style",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "places_angular_bidi_buddy_architect",
+      "target": "places_angular_architect_build",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L66",
+      "weight": 1.0,
+      "source": "places_angular_bidi_buddy_architect",
+      "target": "places_angular_architect_serve",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L77",
+      "weight": 1.0,
+      "source": "places_angular_bidi_buddy_architect",
+      "target": "places_angular_architect_extract_i18n",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L83",
+      "weight": 1.0,
+      "source": "places_angular_bidi_buddy_architect",
+      "target": "places_angular_architect_test",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L100",
+      "weight": 1.0,
+      "source": "places_angular_bidi_buddy_architect",
+      "target": "places_angular_architect_lint",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L113",
+      "weight": 1.0,
+      "source": "places_angular_bidi_buddy_architect",
+      "target": "places_angular_architect_e2e",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "places_angular_architect_build",
+      "target": "places_angular_build_builder",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "places_angular_architect_build",
+      "target": "places_angular_build_options",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L35",
+      "weight": 1.0,
+      "source": "places_angular_architect_build",
+      "target": "places_angular_build_configurations",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "places_angular_build_options",
+      "target": "places_angular_options_outputpath",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "places_angular_build_options",
+      "target": "places_angular_options_index",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "places_angular_build_options",
+      "target": "places_angular_options_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "places_angular_build_options",
+      "target": "places_angular_options_polyfills",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "places_angular_build_options",
+      "target": "places_angular_options_tsconfig",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L25",
+      "weight": 1.0,
+      "source": "places_angular_build_options",
+      "target": "places_angular_options_aot",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L26",
+      "weight": 1.0,
+      "source": "places_angular_build_options",
+      "target": "places_angular_options_assets",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L30",
+      "weight": 1.0,
+      "source": "places_angular_build_options",
+      "target": "places_angular_options_styles",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L33",
+      "weight": 1.0,
+      "source": "places_angular_build_options",
+      "target": "places_angular_options_scripts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L86",
+      "weight": 1.0,
+      "source": "places_angular_test_options",
+      "target": "places_angular_options_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L87",
+      "weight": 1.0,
+      "source": "places_angular_test_options",
+      "target": "places_angular_options_polyfills",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L88",
+      "weight": 1.0,
+      "source": "places_angular_test_options",
+      "target": "places_angular_options_tsconfig",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L103",
+      "weight": 1.0,
+      "source": "places_angular_lint_options",
+      "target": "places_angular_options_tsconfig",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L90",
+      "weight": 1.0,
+      "source": "places_angular_test_options",
+      "target": "places_angular_options_assets",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L94",
+      "weight": 1.0,
+      "source": "places_angular_test_options",
+      "target": "places_angular_options_styles",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L97",
+      "weight": 1.0,
+      "source": "places_angular_test_options",
+      "target": "places_angular_options_scripts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L36",
+      "weight": 1.0,
+      "source": "places_angular_build_configurations",
+      "target": "places_angular_configurations_production",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L37",
+      "weight": 1.0,
+      "source": "places_angular_configurations_production",
+      "target": "places_angular_production_filereplacements",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L43",
+      "weight": 1.0,
+      "source": "places_angular_configurations_production",
+      "target": "places_angular_production_optimization",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L44",
+      "weight": 1.0,
+      "source": "places_angular_configurations_production",
+      "target": "places_angular_production_outputhashing",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L45",
+      "weight": 1.0,
+      "source": "places_angular_configurations_production",
+      "target": "places_angular_production_sourcemap",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L46",
+      "weight": 1.0,
+      "source": "places_angular_configurations_production",
+      "target": "places_angular_production_extractcss",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L47",
+      "weight": 1.0,
+      "source": "places_angular_configurations_production",
+      "target": "places_angular_production_namedchunks",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L48",
+      "weight": 1.0,
+      "source": "places_angular_configurations_production",
+      "target": "places_angular_production_extractlicenses",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L49",
+      "weight": 1.0,
+      "source": "places_angular_configurations_production",
+      "target": "places_angular_production_vendorchunk",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L50",
+      "weight": 1.0,
+      "source": "places_angular_configurations_production",
+      "target": "places_angular_production_buildoptimizer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L51",
+      "weight": 1.0,
+      "source": "places_angular_configurations_production",
+      "target": "places_angular_production_budgets",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L72",
+      "weight": 1.0,
+      "source": "places_angular_serve_configurations",
+      "target": "places_angular_configurations_production",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L73",
+      "weight": 1.0,
+      "source": "places_angular_configurations_production",
+      "target": "places_angular_production_browsertarget",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L120",
+      "weight": 1.0,
+      "source": "places_angular_e2e_configurations",
+      "target": "places_angular_configurations_production",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L121",
+      "weight": 1.0,
+      "source": "places_angular_configurations_production",
+      "target": "places_angular_production_devservertarget",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L67",
+      "weight": 1.0,
+      "source": "places_angular_architect_serve",
+      "target": "places_angular_serve_builder",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L68",
+      "weight": 1.0,
+      "source": "places_angular_architect_serve",
+      "target": "places_angular_serve_options",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L71",
+      "weight": 1.0,
+      "source": "places_angular_architect_serve",
+      "target": "places_angular_serve_configurations",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L69",
+      "weight": 1.0,
+      "source": "places_angular_serve_options",
+      "target": "places_angular_options_browsertarget",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L80",
+      "weight": 1.0,
+      "source": "places_angular_extract_i18n_options",
+      "target": "places_angular_options_browsertarget",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L78",
+      "weight": 1.0,
+      "source": "places_angular_architect_extract_i18n",
+      "target": "places_angular_extract_i18n_builder",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L79",
+      "weight": 1.0,
+      "source": "places_angular_architect_extract_i18n",
+      "target": "places_angular_extract_i18n_options",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L84",
+      "weight": 1.0,
+      "source": "places_angular_architect_test",
+      "target": "places_angular_test_builder",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L85",
+      "weight": 1.0,
+      "source": "places_angular_architect_test",
+      "target": "places_angular_test_options",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L89",
+      "weight": 1.0,
+      "source": "places_angular_test_options",
+      "target": "places_angular_options_karmaconfig",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L101",
+      "weight": 1.0,
+      "source": "places_angular_architect_lint",
+      "target": "places_angular_lint_builder",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L102",
+      "weight": 1.0,
+      "source": "places_angular_architect_lint",
+      "target": "places_angular_lint_options",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L108",
+      "weight": 1.0,
+      "source": "places_angular_lint_options",
+      "target": "places_angular_options_exclude",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L114",
+      "weight": 1.0,
+      "source": "places_angular_architect_e2e",
+      "target": "places_angular_e2e_builder",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L115",
+      "weight": 1.0,
+      "source": "places_angular_architect_e2e",
+      "target": "places_angular_e2e_options",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L119",
+      "weight": 1.0,
+      "source": "places_angular_architect_e2e",
+      "target": "places_angular_e2e_configurations",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L116",
+      "weight": 1.0,
+      "source": "places_angular_e2e_options",
+      "target": "places_angular_options_protractorconfig",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "angular.json",
+      "source_location": "L117",
+      "weight": 1.0,
+      "source": "places_angular_e2e_options",
+      "target": "places_angular_options_devservertarget",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "package_json",
+      "target": "places_package_name",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "package_json",
+      "target": "places_package_version",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "package_json",
+      "target": "places_package_scripts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "package_json",
+      "target": "places_package_private",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "package_json",
+      "target": "places_package_dependencies",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L27",
+      "weight": 1.0,
+      "source": "package_json",
+      "target": "places_package_devdependencies",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "places_package_scripts",
+      "target": "places_package_scripts_ng",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "places_package_scripts",
+      "target": "places_package_scripts_start",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "places_package_scripts",
+      "target": "places_package_scripts_build",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "places_package_scripts",
+      "target": "places_package_scripts_test",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "places_package_scripts",
+      "target": "places_package_scripts_lint",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "places_package_scripts",
+      "target": "places_package_scripts_e2e",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "places_package_dependencies",
+      "target": "places_package_dependencies_angular_animations",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "places_package_dependencies",
+      "target": "places_package_dependencies_angular_common",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "places_package_dependencies",
+      "target": "places_package_dependencies_angular_compiler",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "places_package_dependencies",
+      "target": "places_package_dependencies_angular_core",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "places_package_dependencies",
+      "target": "places_package_dependencies_angular_forms",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "places_package_dependencies",
+      "target": "places_package_dependencies_angular_platform_browser",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "places_package_dependencies",
+      "target": "places_package_dependencies_angular_platform_browser_dynamic",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "places_package_dependencies",
+      "target": "places_package_dependencies_angular_router",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "places_package_dependencies",
+      "target": "places_package_dependencies_rxjs",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "places_package_dependencies",
+      "target": "places_package_dependencies_rxjs_compat",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "places_package_dependencies",
+      "target": "places_package_dependencies_tslib",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L25",
+      "weight": 1.0,
+      "source": "places_package_dependencies",
+      "target": "places_package_dependencies_zone_js",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L28",
+      "weight": 1.0,
+      "source": "places_package_devdependencies",
+      "target": "places_package_devdependencies_angular_devkit_build_angular",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "places_package_devdependencies",
+      "target": "places_package_devdependencies_angular_cli",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L30",
+      "weight": 1.0,
+      "source": "places_package_devdependencies",
+      "target": "places_package_devdependencies_angular_compiler_cli",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "places_package_devdependencies",
+      "target": "places_package_devdependencies_angular_language_service",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L32",
+      "weight": 1.0,
+      "source": "places_package_devdependencies",
+      "target": "places_package_devdependencies_types_node",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L33",
+      "weight": 1.0,
+      "source": "places_package_devdependencies",
+      "target": "places_package_devdependencies_types_jasmine",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L34",
+      "weight": 1.0,
+      "source": "places_package_devdependencies",
+      "target": "places_package_devdependencies_types_jasminewd2",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L35",
+      "weight": 1.0,
+      "source": "places_package_devdependencies",
+      "target": "places_package_devdependencies_codelyzer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L36",
+      "weight": 1.0,
+      "source": "places_package_devdependencies",
+      "target": "places_package_devdependencies_jasmine_core",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L37",
+      "weight": 1.0,
+      "source": "places_package_devdependencies",
+      "target": "places_package_devdependencies_jasmine_spec_reporter",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L38",
+      "weight": 1.0,
+      "source": "places_package_devdependencies",
+      "target": "places_package_devdependencies_karma",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L39",
+      "weight": 1.0,
+      "source": "places_package_devdependencies",
+      "target": "places_package_devdependencies_karma_chrome_launcher",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L40",
+      "weight": 1.0,
+      "source": "places_package_devdependencies",
+      "target": "places_package_devdependencies_karma_coverage_istanbul_reporter",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L41",
+      "weight": 1.0,
+      "source": "places_package_devdependencies",
+      "target": "places_package_devdependencies_karma_jasmine",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L42",
+      "weight": 1.0,
+      "source": "places_package_devdependencies",
+      "target": "places_package_devdependencies_karma_jasmine_html_reporter",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L43",
+      "weight": 1.0,
+      "source": "places_package_devdependencies",
+      "target": "places_package_devdependencies_protractor",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L44",
+      "weight": 1.0,
+      "source": "places_package_devdependencies",
+      "target": "places_package_devdependencies_ts_node",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L45",
+      "weight": 1.0,
+      "source": "places_package_devdependencies",
+      "target": "places_package_devdependencies_tslint",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L46",
+      "weight": 1.0,
+      "source": "places_package_devdependencies",
+      "target": "places_package_devdependencies_typescript",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tslint.json",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "tslint_json",
+      "target": "places_tslint_extends",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tslint.json",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "tslint_json",
+      "target": "places_tslint_rules",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tslint.json",
+      "source_location": "L88",
+      "weight": 1.0,
+      "source": "tslint_json",
+      "target": "places_tslint_rulesdirectory",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tslint.json",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "places_tslint_rules",
+      "target": "places_tslint_rules_array_type",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tslint.json",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "places_tslint_rules",
+      "target": "places_tslint_rules_arrow_parens",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tslint.json",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "places_tslint_rules",
+      "target": "places_tslint_rules_deprecation",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tslint.json",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "places_tslint_rules",
+      "target": "places_tslint_rules_component_class_suffix",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tslint.json",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "places_tslint_rules",
+      "target": "places_tslint_rules_contextual_lifecycle",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tslint.json",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "places_tslint_rules",
+      "target": "places_tslint_rules_directive_class_suffix",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tslint.json",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "places_tslint_rules",
+      "target": "places_tslint_rules_directive_selector",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tslint.json",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "places_tslint_rules",
+      "target": "places_tslint_rules_component_selector",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tslint.json",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "places_tslint_rules",
+      "target": "places_tslint_rules_import_blacklist",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tslint.json",
+      "source_location": "L28",
+      "weight": 1.0,
+      "source": "places_tslint_rules",
+      "target": "places_tslint_rules_interface_name",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tslint.json",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "places_tslint_rules",
+      "target": "places_tslint_rules_max_classes_per_file",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tslint.json",
+      "source_location": "L30",
+      "weight": 1.0,
+      "source": "places_tslint_rules",
+      "target": "places_tslint_rules_max_line_length",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tslint.json",
+      "source_location": "L34",
+      "weight": 1.0,
+      "source": "places_tslint_rules",
+      "target": "places_tslint_rules_member_access",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tslint.json",
+      "source_location": "L35",
+      "weight": 1.0,
+      "source": "places_tslint_rules",
+      "target": "places_tslint_rules_member_ordering",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tslint.json",
+      "source_location": "L46",
+      "weight": 1.0,
+      "source": "places_tslint_rules",
+      "target": "places_tslint_rules_no_consecutive_blank_lines",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tslint.json",
+      "source_location": "L47",
+      "weight": 1.0,
+      "source": "places_tslint_rules",
+      "target": "places_tslint_rules_no_console",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tslint.json",
+      "source_location": "L55",
+      "weight": 1.0,
+      "source": "places_tslint_rules",
+      "target": "places_tslint_rules_no_empty",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tslint.json",
+      "source_location": "L56",
+      "weight": 1.0,
+      "source": "places_tslint_rules",
+      "target": "places_tslint_rules_no_inferrable_types",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tslint.json",
+      "source_location": "L60",
+      "weight": 1.0,
+      "source": "places_tslint_rules",
+      "target": "places_tslint_rules_no_non_null_assertion",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tslint.json",
+      "source_location": "L61",
+      "weight": 1.0,
+      "source": "places_tslint_rules",
+      "target": "places_tslint_rules_no_redundant_jsdoc",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tslint.json",
+      "source_location": "L62",
+      "weight": 1.0,
+      "source": "places_tslint_rules",
+      "target": "places_tslint_rules_no_switch_case_fall_through",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tslint.json",
+      "source_location": "L63",
+      "weight": 1.0,
+      "source": "places_tslint_rules",
+      "target": "places_tslint_rules_no_var_requires",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tslint.json",
+      "source_location": "L64",
+      "weight": 1.0,
+      "source": "places_tslint_rules",
+      "target": "places_tslint_rules_object_literal_key_quotes",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tslint.json",
+      "source_location": "L68",
+      "weight": 1.0,
+      "source": "places_tslint_rules",
+      "target": "places_tslint_rules_object_literal_sort_keys",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tslint.json",
+      "source_location": "L69",
+      "weight": 1.0,
+      "source": "places_tslint_rules",
+      "target": "places_tslint_rules_ordered_imports",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tslint.json",
+      "source_location": "L70",
+      "weight": 1.0,
+      "source": "places_tslint_rules",
+      "target": "places_tslint_rules_quotemark",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tslint.json",
+      "source_location": "L74",
+      "weight": 1.0,
+      "source": "places_tslint_rules",
+      "target": "places_tslint_rules_trailing_comma",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tslint.json",
+      "source_location": "L75",
+      "weight": 1.0,
+      "source": "places_tslint_rules",
+      "target": "places_tslint_rules_no_conflicting_lifecycle",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tslint.json",
+      "source_location": "L76",
+      "weight": 1.0,
+      "source": "places_tslint_rules",
+      "target": "places_tslint_rules_no_host_metadata_property",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tslint.json",
+      "source_location": "L77",
+      "weight": 1.0,
+      "source": "places_tslint_rules",
+      "target": "places_tslint_rules_no_input_rename",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tslint.json",
+      "source_location": "L78",
+      "weight": 1.0,
+      "source": "places_tslint_rules",
+      "target": "places_tslint_rules_no_inputs_metadata_property",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tslint.json",
+      "source_location": "L79",
+      "weight": 1.0,
+      "source": "places_tslint_rules",
+      "target": "places_tslint_rules_no_output_native",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tslint.json",
+      "source_location": "L80",
+      "weight": 1.0,
+      "source": "places_tslint_rules",
+      "target": "places_tslint_rules_no_output_on_prefix",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tslint.json",
+      "source_location": "L81",
+      "weight": 1.0,
+      "source": "places_tslint_rules",
+      "target": "places_tslint_rules_no_output_rename",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tslint.json",
+      "source_location": "L82",
+      "weight": 1.0,
+      "source": "places_tslint_rules",
+      "target": "places_tslint_rules_no_outputs_metadata_property",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tslint.json",
+      "source_location": "L83",
+      "weight": 1.0,
+      "source": "places_tslint_rules",
+      "target": "places_tslint_rules_template_banana_in_box",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tslint.json",
+      "source_location": "L84",
+      "weight": 1.0,
+      "source": "places_tslint_rules",
+      "target": "places_tslint_rules_template_no_negated_async",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tslint.json",
+      "source_location": "L85",
+      "weight": 1.0,
+      "source": "places_tslint_rules",
+      "target": "places_tslint_rules_use_lifecycle_interface",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tslint.json",
+      "source_location": "L86",
+      "weight": 1.0,
+      "source": "places_tslint_rules",
+      "target": "places_tslint_rules_use_pipe_transform_interface",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tslint.json",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "places_tslint_rules_deprecation",
+      "target": "places_tslint_deprecation_severity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.json",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "tsconfig_json",
+      "target": "places_tsconfig_compileonsave",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.json",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "tsconfig_json",
+      "target": "places_tsconfig_compileroptions",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.json",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "tsconfig_json",
+      "target": "places_tsconfig_angularcompileroptions",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.json",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "places_tsconfig_compileroptions",
+      "target": "places_tsconfig_compileroptions_baseurl",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.json",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "places_tsconfig_compileroptions",
+      "target": "places_tsconfig_compileroptions_outdir",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.json",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "places_tsconfig_compileroptions",
+      "target": "places_tsconfig_compileroptions_sourcemap",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.json",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "places_tsconfig_compileroptions",
+      "target": "places_tsconfig_compileroptions_declaration",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.json",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "places_tsconfig_compileroptions",
+      "target": "places_tsconfig_compileroptions_downleveliteration",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.json",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "places_tsconfig_compileroptions",
+      "target": "places_tsconfig_compileroptions_experimentaldecorators",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.json",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "places_tsconfig_compileroptions",
+      "target": "places_tsconfig_compileroptions_module",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.json",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "places_tsconfig_compileroptions",
+      "target": "places_tsconfig_compileroptions_moduleresolution",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.json",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "places_tsconfig_compileroptions",
+      "target": "places_tsconfig_compileroptions_importhelpers",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.json",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "places_tsconfig_compileroptions",
+      "target": "places_tsconfig_compileroptions_target",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.json",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "places_tsconfig_compileroptions",
+      "target": "places_tsconfig_compileroptions_typeroots",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.json",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "places_tsconfig_compileroptions",
+      "target": "places_tsconfig_compileroptions_lib",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.json",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "places_tsconfig_angularcompileroptions",
+      "target": "places_tsconfig_angularcompileroptions_fulltemplatetypecheck",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.json",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "places_tsconfig_angularcompileroptions",
+      "target": "places_tsconfig_angularcompileroptions_strictinjectionparameters",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.spec.json",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "tsconfig_spec_json",
+      "target": "places_tsconfig_spec_extends",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.spec.json",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "tsconfig_spec_json",
+      "target": "places_tsconfig_spec_compileroptions",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.spec.json",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "tsconfig_spec_json",
+      "target": "places_tsconfig_spec_files",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.spec.json",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "tsconfig_spec_json",
+      "target": "places_tsconfig_spec_include",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.spec.json",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "places_tsconfig_spec_compileroptions",
+      "target": "places_tsconfig_spec_compileroptions_outdir",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.spec.json",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "places_tsconfig_spec_compileroptions",
+      "target": "places_tsconfig_spec_compileroptions_types",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "e2e/protractor.conf.js",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "e2e_protractor_conf_js",
+      "target": "e2e_protractor_conf_specreporter",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "e2e/protractor.conf.js",
+      "source_location": "L26",
+      "weight": 1.0,
+      "source": "e2e_protractor_conf_js",
+      "target": "e2e_protractor_conf_onprepare",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "e2e/tsconfig.json",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "e2e_tsconfig_json",
+      "target": "e2e_tsconfig_extends",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "e2e/tsconfig.json",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "e2e_tsconfig_json",
+      "target": "e2e_tsconfig_compileroptions",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "e2e/tsconfig.json",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "e2e_tsconfig_compileroptions",
+      "target": "e2e_tsconfig_compileroptions_outdir",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "e2e/tsconfig.json",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "e2e_tsconfig_compileroptions",
+      "target": "e2e_tsconfig_compileroptions_module",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "e2e/tsconfig.json",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "e2e_tsconfig_compileroptions",
+      "target": "e2e_tsconfig_compileroptions_target",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "e2e/tsconfig.json",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "e2e_tsconfig_compileroptions",
+      "target": "e2e_tsconfig_compileroptions_types",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "e2e/src/app.e2e-spec.ts",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "e2e_src_app_e2e_spec_ts",
+      "target": "e2e_src_app_po_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "e2e/src/app.e2e-spec.ts",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "e2e_src_app_e2e_spec_ts",
+      "target": "src_app_po_apppage",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "e2e/src/app.po.ts",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "e2e_src_app_po_ts",
+      "target": "src_app_po_apppage",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "e2e/src/app.po.ts",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "src_app_po_apppage",
+      "target": "src_app_po_apppage_navigateto",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "e2e/src/app.po.ts",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "src_app_po_apppage",
+      "target": "src_app_po_apppage_gettitletext",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/main.ts",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "src_main_ts",
+      "target": "src_app_app_module_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/main.ts",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "src_main_ts",
+      "target": "app_app_module_appmodule",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/main.ts",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "src_main_ts",
+      "target": "src_environments_environment_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/main.ts",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "src_main_ts",
+      "target": "environments_environment_environment",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/test.ts",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "src_test_ts",
+      "target": "src_test_context",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/app-routing.module.ts",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "src_app_app_routing_module_ts",
+      "target": "app_app_routing_module_routes",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/app-routing.module.ts",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "src_app_app_routing_module_ts",
+      "target": "app_app_routing_module_approutingmodule",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/app.module.ts",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "src_app_app_module_ts",
+      "target": "src_app_app_routing_module_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/app.module.ts",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "src_app_app_module_ts",
+      "target": "app_app_routing_module_approutingmodule",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/app.component.spec.ts",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "src_app_app_component_spec_ts",
+      "target": "src_app_app_component_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/app.component.spec.ts",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "src_app_app_component_spec_ts",
+      "target": "app_app_component_appcomponent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/app.component.spec.ts",
+      "source_location": "L30",
+      "weight": 1.0,
+      "source": "src_app_app_component_spec_ts",
+      "target": "app_app_component_spec_fixture",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/app.module.ts",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "src_app_app_module_ts",
+      "target": "src_app_app_component_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/app.module.ts",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "src_app_app_module_ts",
+      "target": "app_app_component_appcomponent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/app.module.ts",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "src_app_app_module_ts",
+      "target": "src_app_place_list_place_list_component_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/app.module.ts",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "src_app_app_module_ts",
+      "target": "place_list_place_list_component_placelistcomponent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/app.module.ts",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "src_app_app_module_ts",
+      "target": "app_app_module_appmodule",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/app.component.ts",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "src_app_app_component_ts",
+      "target": "app_app_component_appcomponent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/rest-services.service.ts",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "src_app_rest_services_service_ts",
+      "target": "app_rest_services_service_restservicesservice",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/rest-services.service.spec.ts",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "src_app_rest_services_service_spec_ts",
+      "target": "src_app_rest_services_service_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/place-list/place-list.component.ts",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "src_app_place_list_place_list_component_ts",
+      "target": "src_app_rest_services_service_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/rest-services.service.ts",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "app_rest_services_service_restservicesservice",
+      "target": "app_rest_services_service_restservicesservice_constructor",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/rest-services.service.ts",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "app_rest_services_service_restservicesservice",
+      "target": "app_rest_services_service_restservicesservice_getjson",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/rest-services.service.spec.ts",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "src_app_rest_services_service_spec_ts",
+      "target": "app_rest_services_service_restservicesservice",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/place-list/place-list.component.ts",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "src_app_place_list_place_list_component_ts",
+      "target": "app_rest_services_service_restservicesservice",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/place-list/place-list.component.spec.ts",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "src_app_place_list_place_list_component_spec_ts",
+      "target": "src_app_place_list_place_list_component_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/place-list/place-list.component.spec.ts",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "src_app_place_list_place_list_component_spec_ts",
+      "target": "place_list_place_list_component_placelistcomponent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/place-list/place-list.component.ts",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "src_app_place_list_place_list_component_ts",
+      "target": "place_list_place_list_component_placelistcomponent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/place-list/place-list.component.ts",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "place_list_place_list_component_placelistcomponent",
+      "target": "place_list_place_list_component_placelistcomponent_constructor",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/place-list/place-list.component.ts",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "place_list_place_list_component_placelistcomponent",
+      "target": "place_list_place_list_component_placelistcomponent_ngoninit",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/environments/environment.prod.ts",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "src_environments_environment_prod_ts",
+      "target": "environments_environment_prod_environment",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/environments/environment.ts",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "src_environments_environment_ts",
+      "target": "environments_environment_environment",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/assets/mydata.json",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "src_assets_mydata_json",
+      "target": "assets_mydata_html_attributions",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/assets/mydata.json",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "src_assets_mydata_json",
+      "target": "assets_mydata_results",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/assets/mydata.json",
+      "source_location": "L957",
+      "weight": 1.0,
+      "source": "src_assets_mydata_json",
+      "target": "assets_mydata_status",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "readme_md",
+      "target": "places_readme_bidibuddy",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "places_readme_bidibuddy",
+      "target": "places_readme_development_server",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "places_readme_bidibuddy",
+      "target": "places_readme_code_scaffolding",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "places_readme_bidibuddy",
+      "target": "places_readme_build",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "places_readme_bidibuddy",
+      "target": "places_readme_running_unit_tests",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "places_readme_bidibuddy",
+      "target": "places_readme_running_end_to_end_tests",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L25",
+      "weight": 1.0,
+      "source": "places_readme_bidibuddy",
+      "target": "places_readme_further_help",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": []
+}

@@ -1,0 +1,71 @@
+{
+  "repo": "places",
+  "title": "BidiBuddy",
+  "purpose": "Angular practice app centered on loading and displaying place data through a `PlaceListComponent` and a small REST service layer.",
+  "domains": [
+    "web app",
+    "learning"
+  ],
+  "tech_stack": [
+    "Angular",
+    "TypeScript",
+    "RxJS",
+    "SCSS"
+  ],
+  "features": [
+    "Angular 9 scaffold with standard CLI project structure",
+    "Place list component that loads JSON data through a service call",
+    "Service-based data flow suitable for a directory or discovery-style UI",
+    "Local Angular development, build, test, and e2e scripts"
+  ],
+  "pending_state": "unknown",
+  "pending_items": [],
+  "status_confidence": "medium",
+  "main_modules": [
+    "src",
+    "e2e"
+  ],
+  "key_flows": [
+    "graphify-out/GRAPH_REPORT.md",
+    "package.json",
+    "src/app"
+  ],
+  "known_outputs": [
+    "graphify-out/graph.json",
+    "graphify-out/graph.html",
+    "graphify-out/GRAPH_REPORT.md"
+  ],
+  "current_work_guess": "This reads as an Angular learning scaffold with one concrete place-list flow rather than a finished product.",
+  "likely_entrypoints": [
+    "README.md",
+    "src/app/place-list/place-list.component.ts",
+    "src/app/app.module.ts",
+    "package.json"
+  ],
+  "notable_docs": [
+    "README.md",
+    "package.json"
+  ],
+  "graph_stats": "238 nodes \u00b7 242 edges \u00b7 21 communities (17 shown, 4 thin omitted)",
+  "god_nodes": [
+    "rules",
+    "devDependencies",
+    "production",
+    "dependencies",
+    "compilerOptions"
+  ],
+  "llm_start_here": [
+    "README.md",
+    "src/app/place-list/place-list.component.ts",
+    "graphify-out/repo-semantic-summary.md"
+  ],
+  "suggested_next_steps": [
+    "Document the expected JSON source and UI behavior more explicitly",
+    "Add routing or detail views if you want the app story to feel more complete"
+  ],
+  "evidence_files": [
+    "README.md",
+    "src/app/place-list/place-list.component.ts",
+    "package.json"
+  ]
+}
