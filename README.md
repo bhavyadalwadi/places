@@ -61,3 +61,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 - `package.json`
 - `src/app`
 - `graphify-out/repo-semantic-summary.md`
+
+## Maintenance note
+
+- TODO: archive this repo later if you want a stricter recruiter-facing GitHub profile
