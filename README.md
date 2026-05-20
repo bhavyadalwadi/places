@@ -1,4 +1,6 @@
-# BidiBuddy
+# BidiBuddy [Archived]
+
+Status: Archived. Kept as older practice work.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.1.
 
